@@ -1,0 +1,28 @@
+.bg-blue {
+  background-color: #20a0ff;
+}
+.bg-orange {
+  background-color: #F7BA2B;
+}
+.bg-green {
+  background-color: #12CB65;
+}
+.bg-white {
+  background-color: #fff;
+}
+.bg-body {
+  background-color: #f7f8f9;
+}
+
+.text-blue {
+  color: #20a0ff;
+}
+.text-orange {
+  color: #F7BA2B;
+}
+.text-green {
+  color: #12CB65;
+}
+.text-white {
+  color: #fff;
+}

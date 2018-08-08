@@ -1,0 +1,26 @@
+.text-small {
+  font-size: 12px;
+}
+.text-ellipsis {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.clickable {
+  cursor: pointer;
+}
+.hidden {
+  display: none;
+}
+.bordered {
+  border: 1px solid #eeeeee;
+}
+.muted {
+  color: #666666;
+  cursor: default;
+}
+.divider {
+  margin: 12px 0;
+  border: none;
+  border-bottom: 1px solid #ddd;
+}
