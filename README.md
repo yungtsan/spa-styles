@@ -1,4 +1,4 @@
-# spa-global-style
+# spa-styles
 > Global stylesheets for SPA projects with UI library (scoped component styles).
 
 ### How to use
