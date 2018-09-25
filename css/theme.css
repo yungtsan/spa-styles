@@ -35,3 +35,25 @@
 .text-muted {
   color: #999999;
 }
+
+/* UI component libraries related - e.g. ElementUI */
+.el-table thead {
+  color: #444;
+}
+.el-table td,
+.el-table th {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+.el-table .el-table__empty-block {
+  height: auto;
+}
+.el-table__footer .cell {
+  font-style: italic;
+}
+.el-dialog {
+  border-radius: 6px;
+}
+.el-range-editor--small .el-range-separator {
+  padding: 0 2px;
+}
