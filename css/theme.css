@@ -10,7 +10,7 @@
 .bg-white {
   background-color: #fff;
 }
-.bg-body {
+.bg-gray {
   background-color: #f7f8f9;
 }
 
@@ -25,4 +25,13 @@
 }
 .text-white {
   color: #fff;
+}
+.text-red {
+  color: red;
+}
+.text-gray {
+  color: #666666;
+}
+.text-muted {
+  color: #999999;
 }

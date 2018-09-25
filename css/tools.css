@@ -1,12 +1,9 @@
-.text-small {
-  font-size: 12px;
-}
 .text-ellipsis {
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
 }
-.clickable {
+.pointer {
   cursor: pointer;
 }
 .hidden {
@@ -14,6 +11,9 @@
 }
 .bordered {
   border: 1px solid #eeeeee;
+}
+.underlined {
+  text-decoration: underline;
 }
 .muted {
   color: #666666;
