@@ -1,0 +1,15 @@
+/* cursor */
+.pointer {
+  cursor: pointer;
+}
+/* text */
+.underlined {
+  text-decoration: underline;
+}
+.text-bold {
+  font-weight: bold;
+}
+/* box-shadow */
+/* .box-shadow {
+  box-shadow: 0 5px 10px 0 rgba(221, 221, 221, 0.50);
+} */
